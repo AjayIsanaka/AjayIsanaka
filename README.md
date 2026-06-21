@@ -41,4 +41,4 @@ CGPA: 8.0/10
 
 ---
 
-### ⭐ "Learning, Building, and Growing Every Day."
+###  "Learning, Building, and Growing Every Day."
